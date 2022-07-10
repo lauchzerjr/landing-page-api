@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_slacks",
+  "info": {
+    "name": "slack",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "titleSlack": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

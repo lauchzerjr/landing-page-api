@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_have_others_questions",
+  "info": {
+    "name": "haveOthersQuestions",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "mySite": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.my-site",
+      "required": true
+    },
+    "slack": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.slack",
+      "required": true
+    }
+  }
+}

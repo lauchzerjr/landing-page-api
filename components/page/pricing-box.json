@@ -2,7 +2,7 @@
   "collectionName": "components_page_pricing_boxes",
   "info": {
     "name": "pricingBox",
-    "icon": "money-bill-wave"
+    "icon": "dollar-sign"
   },
   "options": {},
   "attributes": {
@@ -15,7 +15,7 @@
       "type": "integer",
       "required": true
     },
-    "priceInstallments": {
+    "priceInstallment": {
       "type": "integer",
       "required": true
     },
@@ -27,8 +27,8 @@
     "button": {
       "type": "component",
       "repeatable": false,
-      "required": true,
-      "component": "page.button"
+      "component": "page.button",
+      "required": true
     }
   }
 }

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_page_my_sites",
+  "info": {
+    "name": "mySite",
+    "icon": "sitemap"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true
+    },
+    "titleUrl": {
+      "type": "string"
+    }
+  }
+}

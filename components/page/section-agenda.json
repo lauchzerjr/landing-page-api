@@ -1,12 +1,12 @@
 {
-  "collectionName": "components_page_section_calendars",
+  "collectionName": "components_page_section_agenda",
   "info": {
-    "name": "sectionCalendar",
+    "name": "sectionAgenda",
     "icon": "calendar-alt"
   },
   "options": {},
   "attributes": {
-    "titile": {
+    "title": {
       "type": "string",
       "required": true
     },

@@ -11,9 +11,9 @@
       "enum": [
         "Github",
         "Twitter",
-        "Facebook",
         "Dribbble",
-        "Linkedin"
+        "LinkedIn",
+        "Facebook"
       ],
       "default": "Twitter",
       "required": true
